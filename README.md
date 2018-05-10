@@ -1,3 +1,5 @@
+[![Travis build status](https://travis-ci.org/kevinykuo/testdownload.svg?branch=master)](https://travis-ci.org/kevinykuo/testdownload)
+
 # testdownload
 
 The goal of testdownload is to ...
