@@ -9,7 +9,7 @@ test_that("we can download from apache.org", {
 
 test_that("we can download from apache.org (http)", {
   testthat::expect_error(
-    download.file("http://apache.org", "foo.html"),
+    download.file("http://apache.org", "foo1.html"),
     NA
   )
 })
